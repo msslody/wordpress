@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Shop &#8211; Royal Bakery Of Phnom Penh</title>
+	<atom:link href="https://msslody.github.io/wordpress/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://msslody.github.io/wordpress</link>
+	<description></description>
+	<lastBuildDate>Wed, 16 Oct 2024 08:21:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Chocolate Cake</title>
+		<link>https://msslody.github.io/wordpress/product/chocolate-cake/</link>
+					<comments>https://msslody.github.io/wordpress/product/chocolate-cake/#respond</comments>
+		
+		<dc:creator><![CDATA[msslody]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 16:40:07 +0000</pubDate>
+				<guid isPermaLink="false">https://msslody.github.io/wordpress/?post_type=product#038;p=175</guid>
+
+					<description><![CDATA[Chocolate cake filled with chocolate buttercream and covered in chocolate ganache.]]></description>
+										<content:encoded><![CDATA[Chocolate cake filled with chocolate buttercream and covered in chocolate ganache.]]></content:encoded>
+					
+					<wfw:commentRss>https://msslody.github.io/wordpress/product/chocolate-cake/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">175</post-id>	</item>
+		<item>
+		<title>NY Style Cheesecake</title>
+		<link>https://msslody.github.io/wordpress/product/ny-style-cheesecake/</link>
+					<comments>https://msslody.github.io/wordpress/product/ny-style-cheesecake/#respond</comments>
+		
+		<dc:creator><![CDATA[msslody]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 16:38:38 +0000</pubDate>
+				<guid isPermaLink="false">https://msslody.github.io/wordpress/?post_type=product#038;p=173</guid>
+
+					<description><![CDATA[Rich New York-style cheesecake on a buttery graham cracker crust topped with strawberries.]]></description>
+										<content:encoded><![CDATA[Rich New York-style cheesecake on a buttery graham cracker crust topped with strawberries.]]></content:encoded>
+					
+					<wfw:commentRss>https://msslody.github.io/wordpress/product/ny-style-cheesecake/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">173</post-id>	</item>
+		<item>
+		<title>Cheese Tart</title>
+		<link>https://msslody.github.io/wordpress/product/cheese-tart/</link>
+					<comments>https://msslody.github.io/wordpress/product/cheese-tart/#respond</comments>
+		
+		<dc:creator><![CDATA[msslody]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 16:36:45 +0000</pubDate>
+				<guid isPermaLink="false">https://msslody.github.io/wordpress/?post_type=product#038;p=171</guid>
+
+					<description><![CDATA[Mini baked sweet cream cheese tart.]]></description>
+										<content:encoded><![CDATA[Mini baked sweet cream cheese tart.]]></content:encoded>
+					
+					<wfw:commentRss>https://msslody.github.io/wordpress/product/cheese-tart/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">171</post-id>	</item>
+		<item>
+		<title>Croissant</title>
+		<link>https://msslody.github.io/wordpress/product/croissant/</link>
+					<comments>https://msslody.github.io/wordpress/product/croissant/#respond</comments>
+		
+		<dc:creator><![CDATA[msslody]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 16:35:04 +0000</pubDate>
+				<guid isPermaLink="false">https://msslody.github.io/wordpress/?post_type=product#038;p=169</guid>
+
+					<description><![CDATA[A buttery, flaky pastry with golden, crisp layers and a soft, airy interior.]]></description>
+										<content:encoded><![CDATA[A buttery, flaky pastry with golden, crisp layers and a soft, airy interior.]]></content:encoded>
+					
+					<wfw:commentRss>https://msslody.github.io/wordpress/product/croissant/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">169</post-id>	</item>
+		<item>
+		<title>Baguette</title>
+		<link>https://msslody.github.io/wordpress/product/baguette/</link>
+					<comments>https://msslody.github.io/wordpress/product/baguette/#respond</comments>
+		
+		<dc:creator><![CDATA[msslody]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 16:33:19 +0000</pubDate>
+				<guid isPermaLink="false">https://msslody.github.io/wordpress/?post_type=product#038;p=167</guid>
+
+					<description><![CDATA[A French bread with a crisp crust and soft, airy interior, perfect for sandwiches or enjoying with butter.]]></description>
+										<content:encoded><![CDATA[A French bread with a crisp crust and soft, airy interior, perfect for sandwiches or enjoying with butter.]]></content:encoded>
+					
+					<wfw:commentRss>https://msslody.github.io/wordpress/product/baguette/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">167</post-id>	</item>
+		<item>
+		<title>Cheese Quiche (4 pcs)</title>
+		<link>https://msslody.github.io/wordpress/product/cheese-quiche-4-pcs/</link>
+					<comments>https://msslody.github.io/wordpress/product/cheese-quiche-4-pcs/#respond</comments>
+		
+		<dc:creator><![CDATA[msslody]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 16:29:10 +0000</pubDate>
+				<guid isPermaLink="false">https://msslody.github.io/wordpress/?post_type=product#038;p=164</guid>
+
+					<description><![CDATA[Rich, Flaky Pastry filled with Egg and a blend of four cheeses (Swiss, Cheddar, Parmesan, Mozzarella) with rosemary.]]></description>
+										<content:encoded><![CDATA[Rich, Flaky Pastry filled with Egg and a blend of four cheeses (Swiss, Cheddar, Parmesan, Mozzarella) with rosemary.]]></content:encoded>
+					
+					<wfw:commentRss>https://msslody.github.io/wordpress/product/cheese-quiche-4-pcs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">164</post-id>	</item>
+		<item>
+		<title>Broccoli Cheddar Quiche</title>
+		<link>https://msslody.github.io/wordpress/product/broccoli-cheddar-quiche/</link>
+					<comments>https://msslody.github.io/wordpress/product/broccoli-cheddar-quiche/#respond</comments>
+		
+		<dc:creator><![CDATA[msslody]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 16:24:45 +0000</pubDate>
+				<guid isPermaLink="false">https://msslody.github.io/wordpress/?post_type=product#038;p=162</guid>
+
+					<description><![CDATA[Rich, flaky pastry filled with egg, broccoli, cheddar, parmesan, and Swiss cheeses.]]></description>
+										<content:encoded><![CDATA[Rich, flaky pastry filled with egg, broccoli, cheddar, parmesan, and Swiss cheeses.]]></content:encoded>
+					
+					<wfw:commentRss>https://msslody.github.io/wordpress/product/broccoli-cheddar-quiche/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">162</post-id>	</item>
+		<item>
+		<title>Tiramisu Tart</title>
+		<link>https://msslody.github.io/wordpress/product/tiramisu-tart/</link>
+					<comments>https://msslody.github.io/wordpress/product/tiramisu-tart/#respond</comments>
+		
+		<dc:creator><![CDATA[msslody]]></dc:creator>
+		<pubDate>Sun, 06 Oct 2024 19:10:34 +0000</pubDate>
+				<guid isPermaLink="false">https://msslody.github.io/wordpress/?post_type=product#038;p=87</guid>
+
+					<description><![CDATA[Mini chocolate tart filled with coffee cream cheese, topped with cocoa powder.]]></description>
+										<content:encoded><![CDATA[Mini chocolate tart filled with coffee cream cheese, topped with cocoa powder.]]></content:encoded>
+					
+					<wfw:commentRss>https://msslody.github.io/wordpress/product/tiramisu-tart/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">87</post-id>	</item>
+		<item>
+		<title>Strawberry Croissant</title>
+		<link>https://msslody.github.io/wordpress/product/strawberry-croissant/</link>
+					<comments>https://msslody.github.io/wordpress/product/strawberry-croissant/#respond</comments>
+		
+		<dc:creator><![CDATA[msslody]]></dc:creator>
+		<pubDate>Sun, 06 Oct 2024 19:08:17 +0000</pubDate>
+				<guid isPermaLink="false">https://msslody.github.io/wordpress/?post_type=product#038;p=85</guid>
+
+					<description><![CDATA[A flaky, buttery pastry filled with sweet, juicy strawberries, offering a perfect blend of crisp layers and fresh fruit flavor.]]></description>
+										<content:encoded><![CDATA[A flaky, buttery pastry filled with sweet, juicy strawberries, offering a perfect blend of crisp layers and fresh fruit flavor.]]></content:encoded>
+					
+					<wfw:commentRss>https://msslody.github.io/wordpress/product/strawberry-croissant/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">85</post-id>	</item>
+		<item>
+		<title>Chocolate Cupcake</title>
+		<link>https://msslody.github.io/wordpress/product/chocolate-cupcake/</link>
+					<comments>https://msslody.github.io/wordpress/product/chocolate-cupcake/#respond</comments>
+		
+		<dc:creator><![CDATA[msslody]]></dc:creator>
+		<pubDate>Sun, 06 Oct 2024 18:42:42 +0000</pubDate>
+				<guid isPermaLink="false">https://msslody.github.io/wordpress/?post_type=product#038;p=74</guid>
+
+					<description><![CDATA[A rich, moist chocolate cupcake topped with a smooth, velvety swirl of decadent chocolate frosting.]]></description>
+										<content:encoded><![CDATA[A rich, moist chocolate cupcake topped with a smooth, velvety swirl of decadent chocolate frosting.]]></content:encoded>
+					
+					<wfw:commentRss>https://msslody.github.io/wordpress/product/chocolate-cupcake/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">74</post-id>	</item>
+	</channel>
+</rss>

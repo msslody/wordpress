@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Savory Items &#8211; Royal Bakery Of Phnom Penh</title>
+	<atom:link href="https://msslody.github.io/wordpress/product-category/savory-items/feed/" rel="self" type="application/rss+xml" />
+	<link>https://msslody.github.io/wordpress</link>
+	<description></description>
+	<lastBuildDate>Mon, 07 Oct 2024 16:29:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Cheese Quiche (4 pcs)</title>
+		<link>https://msslody.github.io/wordpress/product/cheese-quiche-4-pcs/</link>
+					<comments>https://msslody.github.io/wordpress/product/cheese-quiche-4-pcs/#respond</comments>
+		
+		<dc:creator><![CDATA[msslody]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 16:29:10 +0000</pubDate>
+				<guid isPermaLink="false">https://msslody.github.io/wordpress/?post_type=product#038;p=164</guid>
+
+					<description><![CDATA[Rich, Flaky Pastry filled with Egg and a blend of four cheeses (Swiss, Cheddar, Parmesan, Mozzarella) with rosemary.]]></description>
+										<content:encoded><![CDATA[Rich, Flaky Pastry filled with Egg and a blend of four cheeses (Swiss, Cheddar, Parmesan, Mozzarella) with rosemary.]]></content:encoded>
+					
+					<wfw:commentRss>https://msslody.github.io/wordpress/product/cheese-quiche-4-pcs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">164</post-id>	</item>
+		<item>
+		<title>Broccoli Cheddar Quiche</title>
+		<link>https://msslody.github.io/wordpress/product/broccoli-cheddar-quiche/</link>
+					<comments>https://msslody.github.io/wordpress/product/broccoli-cheddar-quiche/#respond</comments>
+		
+		<dc:creator><![CDATA[msslody]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 16:24:45 +0000</pubDate>
+				<guid isPermaLink="false">https://msslody.github.io/wordpress/?post_type=product#038;p=162</guid>
+
+					<description><![CDATA[Rich, flaky pastry filled with egg, broccoli, cheddar, parmesan, and Swiss cheeses.]]></description>
+										<content:encoded><![CDATA[Rich, flaky pastry filled with egg, broccoli, cheddar, parmesan, and Swiss cheeses.]]></content:encoded>
+					
+					<wfw:commentRss>https://msslody.github.io/wordpress/product/broccoli-cheddar-quiche/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">162</post-id>	</item>
+	</channel>
+</rss>

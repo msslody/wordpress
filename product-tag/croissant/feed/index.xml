@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>croissant &#8211; Royal Bakery Of Phnom Penh</title>
+	<atom:link href="https://msslody.github.io/wordpress/product-tag/croissant/feed/" rel="self" type="application/rss+xml" />
+	<link>https://msslody.github.io/wordpress</link>
+	<description></description>
+	<lastBuildDate>Mon, 07 Oct 2024 16:35:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Croissant</title>
+		<link>https://msslody.github.io/wordpress/product/croissant/</link>
+					<comments>https://msslody.github.io/wordpress/product/croissant/#respond</comments>
+		
+		<dc:creator><![CDATA[msslody]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2024 16:35:04 +0000</pubDate>
+				<guid isPermaLink="false">https://msslody.github.io/wordpress/?post_type=product#038;p=169</guid>
+
+					<description><![CDATA[A buttery, flaky pastry with golden, crisp layers and a soft, airy interior.]]></description>
+										<content:encoded><![CDATA[A buttery, flaky pastry with golden, crisp layers and a soft, airy interior.]]></content:encoded>
+					
+					<wfw:commentRss>https://msslody.github.io/wordpress/product/croissant/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">169</post-id>	</item>
+		<item>
+		<title>Strawberry Croissant</title>
+		<link>https://msslody.github.io/wordpress/product/strawberry-croissant/</link>
+					<comments>https://msslody.github.io/wordpress/product/strawberry-croissant/#respond</comments>
+		
+		<dc:creator><![CDATA[msslody]]></dc:creator>
+		<pubDate>Sun, 06 Oct 2024 19:08:17 +0000</pubDate>
+				<guid isPermaLink="false">https://msslody.github.io/wordpress/?post_type=product#038;p=85</guid>
+
+					<description><![CDATA[A flaky, buttery pastry filled with sweet, juicy strawberries, offering a perfect blend of crisp layers and fresh fruit flavor.]]></description>
+										<content:encoded><![CDATA[A flaky, buttery pastry filled with sweet, juicy strawberries, offering a perfect blend of crisp layers and fresh fruit flavor.]]></content:encoded>
+					
+					<wfw:commentRss>https://msslody.github.io/wordpress/product/strawberry-croissant/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">85</post-id>	</item>
+	</channel>
+</rss>
